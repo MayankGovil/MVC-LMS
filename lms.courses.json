@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "664b4dc1600a190242be3247"
+  },
+  "coursename": "Frontend Web Developer",
+  "courseprice": 28000,
+  "courseduration": "8 months",
+  "coursedecription": "Become a skilled front-end developer by learning HTML, CSS, JavaScript, jQuery, and Bootstrap!\r\n\r\n*No coding or development experience is required.",
+  "courseimage": "1716273570964Frontend.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c43ee99ed249a21072589"
+  },
+  "coursename": "Content Writer Certification Course",
+  "courseprice": 7099,
+  "courseduration": "4 months",
+  "coursedecription": "Welcome to India’s most comprehensive and well-structured Online Content Writing Course for Beginners! ",
+  "courseimage": "1716274158332Content_Writing.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c446f99ed249a21072591"
+  },
+  "coursename": "SEO Specialist Certification Course",
+  "courseprice": 1999,
+  "courseduration": "3 months",
+  "coursedecription": "Land high-paying jobs and career opportunities with the most practical SEO course!",
+  "courseimage": "1716274287123SEO Specialist Certification Course.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c44ba99ed249a21072594"
+  },
+  "coursename": "Youtube Creators Course",
+  "courseprice": 1999,
+  "courseduration": "4 months",
+  "coursedecription": "Learn how we strategized our YouTube channel's skyrocketing success from 50k to over 3M subscribers in just 30 months. Fuel your YouTube game with our Secret Sauce.",
+  "courseimage": "1716274362204Youtube Creatorsâ Course.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c45bd4442d60c68c7e1e5"
+  },
+  "coursename": "Full Stack Web Development Course",
+  "courseprice": 6999,
+  "courseduration": "7 months",
+  "coursedecription": "Become a Full Stack Developer with our career-oriented certification course. Master both front-end and back-end development.",
+  "courseimage": "1716274621942Full Stack Web Development Course.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4a1c4442d60c68c7e201"
+  },
+  "coursename": "Web Scraping With Python",
+  "courseprice": 1999,
+  "courseduration": "7 months",
+  "coursedecription": "Become proficient at web scraping using Python, Selenium, and BeautifulSoup, in this up-to-date course based on the latest methodologies",
+  "courseimage": "1716275740102Web Scraping With Python.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4b464442d60c68c7e204"
+  },
+  "coursename": "Master Data Science and Machine Learning: Full Course With Python",
+  "courseprice": 6999,
+  "courseduration": "6 months",
+  "coursedecription": "Become proficient at web scraping using Python, Selenium, and BeautifulSoup, in this up-to-date course based on the latest methodologies",
+  "courseimage": "1716276038563Master Data Science and Machine Learning-Full Course With Python.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4bb94442d60c68c7e207"
+  },
+  "coursename": "Ultimate Network Security Course: Exposing Hackers!",
+  "courseprice": 5999,
+  "courseduration": "6 months",
+  "coursedecription": "The best Network Security Course to uncover cybersecurity secrets and protect networks like a Pro!",
+  "courseimage": "1716276153852Network Security Course.jpg",
+  "coursestatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4eb5155c1a73ab5a87bb"
+  },
+  "coursename": "Backend Development",
+  "courseprice": 2000,
+  "courseduration": "3.5 month",
+  "coursedecription": "learn backend concepts like Nodejs, express, Mongodb, the middle where and types, and file system, and also make a project like Adin Pannel",
+  "courseimage": "1716276916995download.jpg",
+  "coursestatus": true,
+  "__v": 0
+}]

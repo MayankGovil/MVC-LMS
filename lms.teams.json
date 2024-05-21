@@ -1,0 +1,10 @@
+[{
+  "_id": {
+    "$oid": "664c555ed0da24f103e5e14f"
+  },
+  "membername": "Mayank Govil",
+  "membercategory": "Student",
+  "memberimage": "17162786222015862.jpg",
+  "memberstatus": true,
+  "__v": 0
+}]

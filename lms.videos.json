@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "664c4c3b4442d60c68c7e234"
+  },
+  "coursecategory": {
+    "$oid": "664b4dc1600a190242be3247"
+  },
+  "videotopic": "Introduction to Frontend Development and roadmap",
+  "videourl": "https://www.youtube.com/watch?v=9-vW3LRnhlA&t=1s",
+  "videostatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4cb34442d60c68c7e251"
+  },
+  "coursecategory": {
+    "$oid": "664c44ba99ed249a21072594"
+  },
+  "videotopic": "Introduction to Youtube Creators Course",
+  "videourl": "https://www.youtube.com/watch?v=PAXg4s7bUVA",
+  "videostatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4d354442d60c68c7e2be"
+  },
+  "coursecategory": {
+    "$oid": "664b4dc1600a190242be3247"
+  },
+  "videotopic": "Project 1:- Build SWIGGY Home Page Clone with React JS & TAILWIND CSS",
+  "videourl": "https://www.youtube.com/watch?v=CfsQTKWYUGY&t=3186s",
+  "videostatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4eeb155c1a73ab5a87c2"
+  },
+  "coursecategory": {
+    "$oid": "664c44ba99ed249a21072594"
+  },
+  "videotopic": "If You Start a Faceless YouTube Channel in 2024",
+  "videourl": "https://www.youtube.com/watch?v=HcusxbYdyCE&t=331s",
+  "videostatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4fb8155c1a73ab5a87da"
+  },
+  "coursecategory": {
+    "$oid": "664c4eb5155c1a73ab5a87bb"
+  },
+  "videotopic": "Admin panel/dashboard intro, server create",
+  "videourl": "https://www.youtube.com/watch?v=jV1cmQAOobI",
+  "videostatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c4fe6155c1a73ab5a87e0"
+  },
+  "coursecategory": {
+    "$oid": "664c4eb5155c1a73ab5a87bb"
+  },
+  "videotopic": "File System",
+  "videourl": "https://www.youtube.com/watch?v=pIYuI0L8ZQM&t=2s",
+  "videostatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c5003155c1a73ab5a87e6"
+  },
+  "coursecategory": {
+    "$oid": "664c4eb5155c1a73ab5a87bb"
+  },
+  "videotopic": "Express.js, HTML file render",
+  "videourl": "https://www.youtube.com/watch?v=mACc0kMAoRI",
+  "videostatus": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c5045155c1a73ab5a87ec"
+  },
+  "coursecategory": {
+    "$oid": "664c4eb5155c1a73ab5a87bb"
+  },
+  "videotopic": "Introduction to Middlewares and its Types",
+  "videourl": "https://www.youtube.com/watch?v=Gk1ysl8futw",
+  "videostatus": true,
+  "__v": 0
+}]
