@@ -1,7 +1,7 @@
 const express = require('express');
 const router = express.Router();
 const multer = require('multer');
-const path = require('path');
+// const path = require('path');
 
 
 
@@ -34,7 +34,7 @@ const storage_courseimg = multer.diskStorage({
 const upload = multer({ storage: storage_courseimg }).single('image');
 
 
-router.use('/uploads', express.static(path.join(__dirname, 'uploads')));
+// router.use('/uploads', express.static(path.join(__dirname, 'uploads')));
 
 
 

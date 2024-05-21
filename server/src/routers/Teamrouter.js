@@ -15,7 +15,7 @@ const store_teamimage = multer.diskStorage({
 
 const uploadTeam = multer({ storage: store_teamimage }).single('image');
 
-router.use('/teams', express.static(path.join(__dirname, 'teams')));
+// router.use('/teams', express.static(path.join(__dirname, 'teams')));
 
 // Routes
 router.post('/addTeamMember', uploadTeam, teamController.addTeamMember);

@@ -16,7 +16,7 @@ const sliderstorage = multer.diskStorage({
 
 const upload = multer({ storage:sliderstorage }).single('image');
 
-router.use('/Sliders',express.static(path.join(__dirname,'Sliders')))
+// router.use('/Sliders',express.static(path.join(__dirname,'Sliders')))
 
 router.post('/addslider', upload , sliderController.addSlider);
 router.get('/viewslider', sliderController.viewSliders);
